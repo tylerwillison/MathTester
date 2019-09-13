@@ -19,6 +19,8 @@ public class Main {
         secondNumber = 10;
 
         System.out.println(firstWord+secondWord);
+        System.out.println(firstWord+(firstNumber+secondNumber));
+        System.out.println("firstNumber+secondNumber is "+ (firstNumber+secondNumber));
 
 
     }
