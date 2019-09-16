@@ -22,6 +22,7 @@ public class Main {
         System.out.println(firstWord+(firstNumber+secondNumber));
         System.out.println("firstNumber+secondNumber is "+ (firstNumber+secondNumber));
         System.out.println("firstNumber-secondNumber is "+ (firstNumber-secondNumber));
+        System.out.println("secondNumber/firstNumber is "+ (secondNumber/firstNumber));
 
 
 
